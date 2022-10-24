@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41a2aed2-7aa4-4a50-b9b1-f4de19e3bae0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best.wb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chatbot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/common.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/commonProcessed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/generateSynonyms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/intents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/synonyms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/training.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/ActivationLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/ActivationRelu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/ActivationSigmoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/ActivationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/Layer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/Saver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NN/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextProcessor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GUesM5kIbksnhTjCx6iSjzi39S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/cfr31/Documents/Chatbot/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cfr31\Documents\Chatbot\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41a2aed2-7aa4-4a50-b9b1-f4de19e3bae0" name="Changes" comment="" />
+      <created>1666447798543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666447798543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+0
+-What is your name?
+-what's your name?
+-Hi my name is * what's yours?
+-What should I call you?
+-What are you called?
+1
+-Hi
+-Hello
+-Say hi
+-Say Hello
+2
+-sup
+-what's up
+-Hello
+-hi
+-Hola
+3
+-Can I hear a joke?
+-Tell me joke
+-Give me a joke
+-Give Joke
+-What is good joke?
+-What is your best joke?
+4
+-What is your favorite color?
+-My favorite color is * what's yours
+-Favorite color
+5
+-Do you like dogs or cats?
+-Dogs or cats?
+-Do you prefer dogs or cats?
+-Do you like cats or dogs?
+-Cats or dogs?
+6
+-How are you
+-How you doing?
+-I'm doing * you?
+-I'm not doing * you?
+7
+-What are you doing?
+-What you doing?
+-What you up to
+-What are up to
+-I'm doing * you?
+-I'm doing * what about you
+-I'm doing * what are you doing?

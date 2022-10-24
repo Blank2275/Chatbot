@@ -1,0 +1,33 @@
+0 #what's your name
+-My Name Is Bella
+-I'm Bella
+-You can call me Bella
+1 #Hi
+-Hi
+-Hello
+-Hola
+2 #What's up
+-sup
+-Nothing Much
+3 #tell me a joke
+-I'm afraid for the calendar. Its days are numbered.
+-My wife said I should do lunges to stay in shape. That would be a big step forward.
+-Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.
+-What do a tick and the Eiffel Tower have in common?" "They're both Paris sites.
+-Why couldn't the bicycle stand up by itself? It was two tired.
+-What did one hat say to the other?" "Stay here! I'm going on ahead.
+4 #favorite color
+-My favorite color is Blue
+-Blue
+5 #dog or cat
+-I prefer dogs but cats are also good
+-I like dogs
+-Dogs
+6 #How are you
+-Good
+-I'm Doing well
+7 #what are you doing?
+-Nothing
+-Nothing much
+-Talking to you
+-Thinking
